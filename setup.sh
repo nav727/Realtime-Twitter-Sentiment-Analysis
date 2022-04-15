@@ -7,8 +7,8 @@ port = $PORT
 enableCORS = false
 
 [theme]
-base = "dark"
-font = "monospace"
+base = dark
+font = monospace
 
 [client]
 showErrorDetails = False
