@@ -5,3 +5,4 @@ seaborn==0.11.2
 tweepy==3.10.0
 vaderSentiment==3.3.2
 wordcloud==1.8.1
+streamlit==1.8.1
