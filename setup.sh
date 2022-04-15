@@ -7,9 +7,9 @@ port = 9200
 enableCORS = false
 
 [theme]
-base = "dark"
-font = "monospace"
+base = 'dark'
+font = 'monospace'
 
 [client]
-showErrorDetails = False
+showErrorDetails = false
 " > ~/.streamlit/config.toml
