@@ -158,7 +158,7 @@ def main():
         st.session_state.button_clicked = False
     
     ################ Page settings ################
-    im = Image.open("Real time Twitter Sentiment Analysis/favicon.png")
+    im = Image.open("favicon.png")
     
     st.set_page_config(
         page_title = "Realtime Twitter Sentiment Analysis",
