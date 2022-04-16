@@ -181,7 +181,7 @@ def main():
     
     ################ Sidebar ################
     st.sidebar.header("About the App")
-    st.sidebar.info("Realtime Twitter Sentiment Analysis scrapes Twitter for topic selected by the user. The extracted tweets are then used to determine the sentiments of those tweets. \
+    st.sidebar.info("Realtime Twitter Sentiment Analysis scrapes Twitter for topic selected by the user. The extracted tweets are then used to determine realtime sentiments about the topic. \
                     Different visualizations help us to get a feel of the overall mood on Twitter regarding the topic.")
     st.sidebar.text("Built with Streamlit with ❤.")
     
